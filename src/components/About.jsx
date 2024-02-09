@@ -40,18 +40,16 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Proficient in Flutter, full-stack, and cloud technologies, I bring a wealth of expertise to every project. With a focus on efficiency and scalability, I collaborate closely with clients to deliver
+        user-friendly solutions that address real-world challenges. As a passionate content creator, I enjoy sharing insights and empowering others in the tech community. Let's team up and bring your ideas
+        to life with innovation and precision!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
