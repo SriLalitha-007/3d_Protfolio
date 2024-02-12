@@ -72,26 +72,28 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Node JS",
+    icon: nodejs,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
+ 
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Redux Toolkit",
+    icon: redux,
   },
+
   {
     name: "MongoDB",
     icon: mongodb,
@@ -198,41 +200,45 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Ink Less",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "I designed a multi platform flutter project that let's the user create, save and share documents. All document changes will be reflected in real time across all platforms.",
     tags: [
       {
-        name: "react",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "NodeJs",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
+      // {
+      //   name: "Rest API",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: carrent,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Jokes Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "I created a web database app in which one can create, read, edit & delete jokes. Once logged in, the user can decide the operations that can be performed by the viewers. And a search function to filter database results.",
     tags: [
       {
-        name: "react",
+        name: "ASP.NET Core",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "SQL Server",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "C#",
         color: "pink-text-gradient",
       },
     ],
