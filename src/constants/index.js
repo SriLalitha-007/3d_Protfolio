@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Specula",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "June 2023 - September 2023",
+    date: "September 2023 - December 2023",
     points: [
       "Developing and maintaining web applications using ASP.Net MVC and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -135,7 +135,7 @@ const experiences = [
     company_name: "Specula",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2023 - September 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
