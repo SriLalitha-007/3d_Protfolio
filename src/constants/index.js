@@ -51,11 +51,11 @@ const services = [
   },
   {
     title: "Machine Learning Engineer",
-    icon: backend,
+    icon: creator,
   },
   {
     title: "Content Creator",
-    icon: creator,
+    icon: backend,
   },
 ];
 
@@ -120,7 +120,7 @@ const experiences = [
   {
     title: "ASP.Net Developer",
     company_name: "Specula",
-    icon: starbucks,
+    icon: creator,
     iconBg: "#383E56",
     date: "September 2023 - December 2023",
     points: [
@@ -132,43 +132,43 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Specula",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    company_name: "Freelance",
+    icon: web,
+    iconBg: "#383E56",
     date: "June 2023 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Independently developing and deploying web applications for diverse clients using a full-stack approach.",
+      "Implementing back-end functionalities and using MongoDB to manage data storage and retrieval efficiently.",
+      "Integrating third-party APIs and services to extend the functionality of web applications and improve user experiences",
+      "Collaborating closely with clients to understand their needs and requirements, and delivering customized solutions that align with their goals.",
     ],
   },
   {
     title: "Content Developer",
     company_name: "Life Transformation",
-    icon: shopify,
+    icon: backend,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2022 - November   2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed engaging and informative content across various digital platforms, driving increased user engagement and brand awareness.",
+      "Implemented SEO strategies to optimize content visibility.",
+      "Identifying areas for improvement and implementing adjustments to enhance effectiveness",
+      "Evidenced by higher website traffic, increased social media engagement, and enhanced audience interaction.",
     ],
   },
-  {
-    title: "Social Media Manager",
-    company_name: "Life Transformation",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Social Media Manager",
+  //   company_name: "Life Transformation",
+  //   icon: meta,
+  //   iconBg: "#E6DEDD",
+  //   date: "Jan 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
@@ -202,7 +202,7 @@ const projects = [
   {
     name: "Ink Less",
     description:
-      "I designed a multi platform flutter project that let's the user create, save and share documents. All document changes will be reflected in real time across all platforms.",
+      "I developed a multi-platform Flutter application enabling users to create, save, and share documents. Utilizing real-time synchronization, all document updates are instantly reflected across all platforms.",
     tags: [
       {
         name: "Flutter",
@@ -222,12 +222,12 @@ const projects = [
       // },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SriLalitha-007/Ink_less/tree/master",
   },
   {
     name: "Jokes Website",
     description:
-      "I created a web database app in which one can create, read, edit & delete jokes. Once logged in, the user can decide the operations that can be performed by the viewers. And a search function to filter database results.",
+      "I engineered a sophisticated web database app enabling seamless joke management: CURD operations. Users customize viewer permissions, while a search function streamlines data access.",
     tags: [
       {
         name: "ASP.NET Core",
@@ -243,7 +243,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SriLalitha-007/JokesWebApp1.git",
   },
   {
     name: "Trip Guide",
