@@ -21,8 +21,8 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
+  inkless,
+  chucklechamber,
   tripguide,
   threejs,
 } from "../assets";
@@ -223,11 +223,11 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: carrent,
+    image: inkless,
     source_code_link: "https://github.com/SriLalitha-007/Ink_less/tree/master",
   },
   {
-    name: "Jokes Website",
+    name: "Chuckle Chamber",
     description:
       "I engineered a sophisticated web database app enabling seamless joke management with CURD operations. Users customize viewer permissions, while a search function streamlines data access.",
     tags: [
@@ -244,7 +244,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: chucklechamber,
     source_code_link: "https://github.com/SriLalitha-007/JokesWebApp1.git",
   },
   {
