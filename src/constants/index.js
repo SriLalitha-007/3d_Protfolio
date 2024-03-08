@@ -227,7 +227,7 @@ const projects = [
   {
     name: "Jokes Website",
     description:
-      "I engineered a sophisticated web database app enabling seamless joke management: CURD operations. Users customize viewer permissions, while a search function streamlines data access.",
+      "I engineered a sophisticated web database app enabling seamless joke management with CURD operations. Users customize viewer permissions, while a search function streamlines data access.",
     tags: [
       {
         name: "ASP.NET Core",
