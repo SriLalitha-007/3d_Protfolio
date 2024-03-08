@@ -15,6 +15,8 @@ import {
   git,
   figma,
   docker,
+  flutter,
+  restapi,
   meta,
   starbucks,
   tesla,
@@ -72,10 +74,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "TypeScript",
-  //   icon: typescript,
-  // },
+  {
+    name: "Flutter",
+    icon: flutter,
+  },
   {
     name: "Node JS",
     icon: nodejs,
@@ -90,8 +92,8 @@ const technologies = [
   },
  
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "restapi",
+    icon: restapi,
   },
 
   {
