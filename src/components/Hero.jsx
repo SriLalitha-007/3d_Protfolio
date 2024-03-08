@@ -19,7 +19,8 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>SriLalitha</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Mastering the digital frontier: coding prowess, problem-solving finesse, full-stack wizardry, AI & ML exploration, all anchored by the bedrock of DSA. <br className='sm:block hidden' />
+          Fluttering through code, surfing the Cloud and<br className='sm:block hidden' />
+          crafting Full-Stack wonders! 
           
           </p>
         </div>

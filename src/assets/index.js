@@ -21,7 +21,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import restapi from "./tech/restapi.png";
+import flutter from "./tech/flutter.png";
+import sql from "./tech/sql.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -42,8 +44,11 @@ export {
   close,
   css,
   docker,
+  flutter,
+  restapi,
   figma,
   git,
+  sql,
   html,
   javascript,
   mongodb,
