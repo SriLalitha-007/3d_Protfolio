@@ -31,7 +31,7 @@ import tesla from "./company/tesla.png";
 
 import inkless from "./inkless.png";
 import chucklechamber from "./chucklechamber.png";
-import tripguide from "./tripguide.png";
+import scd from "./scd.png";
 
 export {
   logo,
@@ -63,5 +63,5 @@ export {
   tesla,
   inkless,
   chucklechamber,
-  tripguide,
+  scd,
 };

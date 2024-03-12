@@ -23,7 +23,7 @@ import {
   shopify,
   inkless,
   chucklechamber,
-  tripguide,
+  scd,
   threejs,
 } from "../assets";
 
@@ -248,25 +248,25 @@ const projects = [
     source_code_link: "https://github.com/SriLalitha-007/JokesWebApp1.git",
   },
   {
-    name: "Trip Guide",
+    name: "Skin Cancer Detection",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Developed a high-accuracy skin cancer detection system using convolutional neural networks. Providing real-time tumor classification, it enables early detection and intervention for improved patient outcomes.",
     tags: [
       {
-        name: "nextjs",
+        name: "Machine Learning",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "CNN",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Open CV",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: scd,
+    source_code_link: "https://github.com/SriLalitha-007/SkinCancer-Detection",
   },
 ];
 
